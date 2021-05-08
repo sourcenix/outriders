@@ -12,6 +12,7 @@ Add-MpPreference -ExclusionProcess "C:\Program Files (x86)\Steam\steamapps\commo
 ```
 <br/>
 Alternatively, if you have another Antivirus solution you can exclude the following executables while following you products documentation:<br/>
+
 * C:\Program Files (x86)\Steam\steamapps\common\OUTRIDERS\OUTRIDERS-Win64-Shipping.exe
 * C:\Program Files (x86)\Steam\steamapps\common\OUTRIDERS\EAC_OUTRIDERS.exe
 * C:\Program Files (x86)\Steam\steamapps\common\OUTRIDERS\Madness\Binaries\Win64\OUTRIDERS-Win64-Shipping.exe
